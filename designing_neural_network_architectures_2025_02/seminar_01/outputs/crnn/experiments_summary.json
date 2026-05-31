@@ -1,0 +1,86 @@
+[
+  {
+    "name": "baseline_32x128",
+    "config": {
+      "name": "baseline_32x128",
+      "width": 128,
+      "height": 32,
+      "hidden": 64,
+      "lstm_layers": 2,
+      "batch_size": 64,
+      "lr": 0.001,
+      "epochs": 3,
+      "weight_decay": 0.0001,
+      "augment": false,
+      "scheduler": "none"
+    },
+    "val_cer": 0.9209693372898121,
+    "val_exact_match": 0.0,
+    "test_cer": 0.9241598096559929,
+    "test_exact_match": 0.0,
+    "checkpoint": "outputs/crnn/baseline_32x128/best_crnn.pt"
+  },
+  {
+    "name": "wide_32x160",
+    "config": {
+      "name": "wide_32x160",
+      "width": 160,
+      "height": 32,
+      "hidden": 96,
+      "lstm_layers": 2,
+      "batch_size": 64,
+      "lr": 0.001,
+      "epochs": 3,
+      "weight_decay": 0.0001,
+      "augment": false,
+      "scheduler": "none"
+    },
+    "val_cer": 0.9094955489614244,
+    "val_exact_match": 0.0,
+    "test_cer": 0.9110736591652622,
+    "test_exact_match": 0.0,
+    "checkpoint": "outputs/crnn/wide_32x160/best_crnn.pt"
+  },
+  {
+    "name": "augmented_32x128",
+    "config": {
+      "name": "augmented_32x128",
+      "width": 128,
+      "height": 32,
+      "hidden": 64,
+      "lstm_layers": 2,
+      "batch_size": 64,
+      "lr": 0.001,
+      "epochs": 3,
+      "weight_decay": 0.0001,
+      "augment": true,
+      "scheduler": "none"
+    },
+    "val_cer": 0.8823936696340258,
+    "val_exact_match": 0.0,
+    "test_cer": 0.8831168831168831,
+    "test_exact_match": 0.0,
+    "checkpoint": "outputs/crnn/augmented_32x128/best_crnn.pt"
+  },
+  {
+    "name": "augmented_cosine_32x160",
+    "config": {
+      "name": "augmented_cosine_32x160",
+      "width": 160,
+      "height": 32,
+      "hidden": 96,
+      "lstm_layers": 2,
+      "batch_size": 64,
+      "lr": 0.001,
+      "epochs": 3,
+      "weight_decay": 0.0001,
+      "augment": true,
+      "scheduler": "cosine"
+    },
+    "val_cer": 0.968051434223541,
+    "val_exact_match": 0.0,
+    "test_cer": 0.9693665113512442,
+    "test_exact_match": 0.0,
+    "checkpoint": "outputs/crnn/augmented_cosine_32x160/best_crnn.pt"
+  }
+]

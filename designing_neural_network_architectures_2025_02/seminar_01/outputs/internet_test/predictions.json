@@ -1,0 +1,28 @@
+[
+  {
+    "image": "mc_historical_car_plate.jpg",
+    "detected": true,
+    "confidence": 0.9069662690162659,
+    "ocr": "A84",
+    "bbox_xyxy": [
+      1227.0692138671875,
+      1278.6318359375,
+      2584.6728515625,
+      1763.27978515625
+    ],
+    "output": "outputs/internet_test/mc_historical_car_plate_e2e.jpg"
+  },
+  {
+    "image": "mc_historical_car_plate_1.jpg",
+    "detected": true,
+    "confidence": 0.8786424994468689,
+    "ocr": "A954",
+    "bbox_xyxy": [
+      928.1621704101562,
+      787.2017211914062,
+      2293.107421875,
+      1243.4720458984375
+    ],
+    "output": "outputs/internet_test/mc_historical_car_plate_1_e2e.jpg"
+  }
+]

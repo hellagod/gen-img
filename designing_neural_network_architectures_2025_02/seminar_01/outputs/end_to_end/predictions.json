@@ -1,0 +1,80 @@
+[
+  {
+    "image": "144.jpg",
+    "detected": true,
+    "confidence": 0.8884637355804443,
+    "ocr": "X836P2",
+    "bbox_xyxy": [
+      404.5218505859375,
+      528.9161376953125,
+      649.029541015625,
+      607.7234497070312
+    ],
+    "output": "outputs/end_to_end/144_e2e.jpg"
+  },
+  {
+    "image": "147.jpg",
+    "detected": true,
+    "confidence": 0.8977935910224915,
+    "ocr": "K545OY87",
+    "bbox_xyxy": [
+      281.94305419921875,
+      514.0750732421875,
+      471.6515808105469,
+      563.8717651367188
+    ],
+    "output": "outputs/end_to_end/147_e2e.jpg"
+  },
+  {
+    "image": "160.jpg",
+    "detected": true,
+    "confidence": 0.7668575048446655,
+    "ocr": "AP128537",
+    "bbox_xyxy": [
+      353.27972412109375,
+      746.6918334960938,
+      503.7164001464844,
+      796.621826171875
+    ],
+    "output": "outputs/end_to_end/160_e2e.jpg"
+  },
+  {
+    "image": "194.jpg",
+    "detected": true,
+    "confidence": 0.8625888824462891,
+    "ocr": "Y779EM54",
+    "bbox_xyxy": [
+      314.0208435058594,
+      754.0137939453125,
+      490.7436218261719,
+      809.0534057617188
+    ],
+    "output": "outputs/end_to_end/194_e2e.jpg"
+  },
+  {
+    "image": "197.jpg",
+    "detected": true,
+    "confidence": 0.9306304454803467,
+    "ocr": "E420EE1235",
+    "bbox_xyxy": [
+      982.07080078125,
+      484.525146484375,
+      1331.388671875,
+      585.3270874023438
+    ],
+    "output": "outputs/end_to_end/197_e2e.jpg"
+  },
+  {
+    "image": "227.jpg",
+    "detected": true,
+    "confidence": 0.8270189762115479,
+    "ocr": "C600KA03",
+    "bbox_xyxy": [
+      244.21005249023438,
+      467.9872131347656,
+      344.82318115234375,
+      502.09246826171875
+    ],
+    "output": "outputs/end_to_end/227_e2e.jpg"
+  }
+]

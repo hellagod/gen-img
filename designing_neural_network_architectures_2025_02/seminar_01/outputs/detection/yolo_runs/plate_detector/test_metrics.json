@@ -1,0 +1,16 @@
+{
+  "train_model": "seminar_01\\models\\pretrained\\yolov8n_license_plate_joker.pt",
+  "data": "seminar_01\\data\\processed\\detection_yolo\\dataset.yaml",
+  "save_dir": "C:\\Users\\User\\Documents\\gen-img\\designing_neural_network_architectures_2025_02\\seminar_01\\outputs\\detection\\yolo_runs\\plate_detector",
+  "best_checkpoint": "C:\\Users\\User\\Documents\\gen-img\\designing_neural_network_architectures_2025_02\\seminar_01\\outputs\\detection\\yolo_runs\\plate_detector\\weights\\best.pt",
+  "epochs": 12,
+  "imgsz": 640,
+  "batch": 8,
+  "device": "cpu",
+  "test_metrics": {
+    "precision": 0.9601657743437945,
+    "recall": 0.9423076923076923,
+    "map50": 0.9883894736842104,
+    "map50_95": 0.8716459825415759
+  }
+}

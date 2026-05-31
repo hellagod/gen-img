@@ -1,0 +1,117 @@
+{
+  "config": {
+    "name": "wide_32x160",
+    "width": 160,
+    "height": 32,
+    "hidden": 96,
+    "lstm_layers": 2,
+    "batch_size": 64,
+    "lr": 0.001,
+    "epochs": 3,
+    "weight_decay": 0.0001,
+    "augment": false,
+    "scheduler": "none"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 3.6096290245056153,
+      "val_loss": 3.1268784623397026,
+      "val_cer": 1.0,
+      "val_exact_match": 0.0,
+      "lr": 0.001,
+      "seconds": 60.89939069747925
+    },
+    {
+      "epoch": 2,
+      "train_loss": 3.071002414703369,
+      "val_loss": 3.0268417534075285,
+      "val_cer": 0.968051434223541,
+      "val_exact_match": 0.0,
+      "lr": 0.001,
+      "seconds": 85.6039080619812
+    },
+    {
+      "epoch": 3,
+      "train_loss": 2.8385597095489503,
+      "val_loss": 2.7025905282873857,
+      "val_cer": 0.9094955489614244,
+      "val_exact_match": 0.0,
+      "lr": 0.001,
+      "seconds": 91.50504469871521
+    }
+  ],
+  "best_checkpoint": "outputs/crnn/wide_32x160/best_crnn.pt",
+  "val": {
+    "loss": 2.7025905282873857,
+    "cer": 0.9094955489614244,
+    "exact_match": 0.0
+  },
+  "test": {
+    "loss": 2.7159047879670797,
+    "cer": 0.9110736591652622,
+    "exact_match": 0.0
+  },
+  "samples": [
+    {
+      "name": "A610AC797",
+      "gt": "A610AC797",
+      "pred": "B7"
+    },
+    {
+      "name": "O032OO99",
+      "gt": "O032OO99",
+      "pred": "B5"
+    },
+    {
+      "name": "B805HP98",
+      "gt": "B805HP98",
+      "pred": "B5"
+    },
+    {
+      "name": "E575HY750",
+      "gt": "E575HY750",
+      "pred": "B7"
+    },
+    {
+      "name": "K580XX90",
+      "gt": "K580XX90",
+      "pred": "B5"
+    },
+    {
+      "name": "A662EK46",
+      "gt": "A662EK46",
+      "pred": "B5"
+    },
+    {
+      "name": "K191OX197",
+      "gt": "K191OX197",
+      "pred": "B7"
+    },
+    {
+      "name": "E666PP123",
+      "gt": "E666PP123",
+      "pred": "B5"
+    },
+    {
+      "name": "E670AT198",
+      "gt": "E670AT198",
+      "pred": "B7"
+    },
+    {
+      "name": "O094CA11",
+      "gt": "O094CA11",
+      "pred": "B7"
+    },
+    {
+      "name": "C393BK102",
+      "gt": "C393BK102",
+      "pred": "B7"
+    },
+    {
+      "name": "H732HB174",
+      "gt": "H732HB174",
+      "pred": "B5"
+    }
+  ]
+}

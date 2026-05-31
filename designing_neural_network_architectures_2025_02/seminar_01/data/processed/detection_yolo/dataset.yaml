@@ -1,0 +1,6 @@
+path: C:\Users\User\Documents\gen-img\designing_neural_network_architectures_2025_02\seminar_01\data\processed\detection_yolo
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: license_plate

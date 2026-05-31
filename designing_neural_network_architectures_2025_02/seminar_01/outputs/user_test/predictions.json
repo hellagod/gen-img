@@ -1,0 +1,299 @@
+[
+  {
+    "image": "01_russian_close_plate.jpg",
+    "source": "data/external/user_test/01_russian_close_plate.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 1,
+    "max_confidence": 0.17796167731285095,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.17796167731285095,
+        "bbox_xyxy": [
+          7.181018829345703,
+          285.7207336425781,
+          340.92742919921875,
+          616.9226684570312
+        ],
+        "ocr": "BA6"
+      }
+    ],
+    "output": "outputs/user_test/01_russian_close_plate_detections.jpg"
+  },
+  {
+    "image": "02_plate_wall.jpg",
+    "source": "data/external/user_test/02_plate_wall.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 4,
+    "max_confidence": 0.4861827492713928,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.4861827492713928,
+        "bbox_xyxy": [
+          439.5401306152344,
+          286.34344482421875,
+          511.6748962402344,
+          321.86932373046875
+        ],
+        "ocr": "A7096"
+      },
+      {
+        "rank": 2,
+        "confidence": 0.4331646263599396,
+        "bbox_xyxy": [
+          442.74169921875,
+          169.6720428466797,
+          512.0,
+          209.43356323242188
+        ],
+        "ocr": "E551"
+      },
+      {
+        "rank": 3,
+        "confidence": 0.14004477858543396,
+        "bbox_xyxy": [
+          442.46026611328125,
+          169.4562225341797,
+          511.96649169921875,
+          197.1659393310547
+        ],
+        "ocr": "K574"
+      },
+      {
+        "rank": 4,
+        "confidence": 0.07238711416721344,
+        "bbox_xyxy": [
+          121.12614440917969,
+          159.225830078125,
+          133.9042205810547,
+          166.73007202148438
+        ],
+        "ocr": "O735"
+      }
+    ],
+    "output": "outputs/user_test/02_plate_wall_detections.jpg"
+  },
+  {
+    "image": "03_city_traffic_rear.jpg",
+    "source": "data/external/user_test/03_city_traffic_rear.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 5,
+    "max_confidence": 0.8731942772865295,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.8731942772865295,
+        "bbox_xyxy": [
+          82.75604248046875,
+          519.2958984375,
+          206.40695190429688,
+          559.7411499023438
+        ],
+        "ocr": "OC177AA92"
+      },
+      {
+        "rank": 2,
+        "confidence": 0.8689690232276917,
+        "bbox_xyxy": [
+          660.2291870117188,
+          661.8017578125,
+          888.7240600585938,
+          714.5233154296875
+        ],
+        "ocr": "A777AA777"
+      },
+      {
+        "rank": 3,
+        "confidence": 0.30277371406555176,
+        "bbox_xyxy": [
+          1245.7713623046875,
+          549.1954956054688,
+          1306.547119140625,
+          570.9027709960938
+        ],
+        "ocr": "A128B132"
+      },
+      {
+        "rank": 4,
+        "confidence": 0.10644962638616562,
+        "bbox_xyxy": [
+          854.5013427734375,
+          357.3846435546875,
+          893.0331420898438,
+          379.6577453613281
+        ],
+        "ocr": "A81"
+      },
+      {
+        "rank": 5,
+        "confidence": 0.07493369281291962,
+        "bbox_xyxy": [
+          292.8919982910156,
+          210.24276733398438,
+          330.07952880859375,
+          242.69454956054688
+        ],
+        "ocr": "OK416"
+      }
+    ],
+    "output": "outputs/user_test/03_city_traffic_rear_detections.jpg"
+  },
+  {
+    "image": "04_russian_car_rear.jpg",
+    "source": "data/external/user_test/04_russian_car_rear.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 1,
+    "max_confidence": 0.8519275188446045,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.8519275188446045,
+        "bbox_xyxy": [
+          254.8414306640625,
+          200.68638610839844,
+          307.8544006347656,
+          221.99179077148438
+        ],
+        "ocr": "CA35"
+      }
+    ],
+    "output": "outputs/user_test/04_russian_car_rear_detections.jpg"
+  },
+  {
+    "image": "05_night_bmw_front.jpg",
+    "source": "data/external/user_test/05_night_bmw_front.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 3,
+    "max_confidence": 0.8619639277458191,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.8619639277458191,
+        "bbox_xyxy": [
+          578.647216796875,
+          432.65203857421875,
+          703.864013671875,
+          456.9614562988281
+        ],
+        "ocr": "A388008PA07"
+      },
+      {
+        "rank": 2,
+        "confidence": 0.7996871471405029,
+        "bbox_xyxy": [
+          490.6264343261719,
+          263.72454833984375,
+          624.0193481445312,
+          307.77545166015625
+        ],
+        "ocr": "A555BA161"
+      },
+      {
+        "rank": 3,
+        "confidence": 0.09555913507938385,
+        "bbox_xyxy": [
+          308.9349060058594,
+          195.88861083984375,
+          393.70025634765625,
+          243.3631134033203
+        ],
+        "ocr": "K8811"
+      }
+    ],
+    "output": "outputs/user_test/05_night_bmw_front_detections.jpg"
+  },
+  {
+    "image": "06_blue_bmw_front.jpg",
+    "source": "data/external/user_test/06_blue_bmw_front.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 1,
+    "max_confidence": 0.7761791944503784,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.7761791944503784,
+        "bbox_xyxy": [
+          722.7667846679688,
+          779.2105102539062,
+          1102.7529296875,
+          878.9002685546875
+        ],
+        "ocr": "E800KY9"
+      }
+    ],
+    "output": "outputs/user_test/06_blue_bmw_front_detections.jpg"
+  },
+  {
+    "image": "07_red_lada_front.jpg",
+    "source": "data/external/user_test/07_red_lada_front.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 3,
+    "max_confidence": 0.8979426622390747,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.8979426622390747,
+        "bbox_xyxy": [
+          766.28076171875,
+          559.2975463867188,
+          1007.14111328125,
+          626.7291259765625
+        ],
+        "ocr": "C759MK38"
+      },
+      {
+        "rank": 2,
+        "confidence": 0.2730003595352173,
+        "bbox_xyxy": [
+          986.9386596679688,
+          0.40212032198905945,
+          1095.8770751953125,
+          46.85896301269531
+        ],
+        "ocr": "B3"
+      },
+      {
+        "rank": 3,
+        "confidence": 0.07549449801445007,
+        "bbox_xyxy": [
+          209.58335876464844,
+          0.27486205101013184,
+          490.35040283203125,
+          54.24577331542969
+        ],
+        "ocr": "B1"
+      }
+    ],
+    "output": "outputs/user_test/07_red_lada_front_detections.jpg"
+  },
+  {
+    "image": "08_orange_lada_front.jpg",
+    "source": "data/external/user_test/08_orange_lada_front.jpg",
+    "imgsz": 1280,
+    "conf_threshold": 0.05,
+    "detections_count": 1,
+    "max_confidence": 0.8685365319252014,
+    "detections": [
+      {
+        "rank": 1,
+        "confidence": 0.8685365319252014,
+        "bbox_xyxy": [
+          496.6546630859375,
+          396.60968017578125,
+          650.4738159179688,
+          451.6122741699219
+        ],
+        "ocr": "A0001A832"
+      }
+    ],
+    "output": "outputs/user_test/08_orange_lada_front_detections.jpg"
+  }
+]

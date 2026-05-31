@@ -1,0 +1,13 @@
+ultralytics
+huggingface_hub
+opencv-python-headless
+torch
+torchvision
+numpy
+pillow
+pyyaml
+tqdm
+nbformat
+nbclient
+pandas
+matplotlib

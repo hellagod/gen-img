@@ -1,0 +1,31 @@
+{
+  "source": "seminar_01\\data\\raw\\number_car_detect",
+  "weights": "seminar_01\\models\\pretrained\\yolov8n_license_plate_joker.pt",
+  "output": "seminar_01\\data\\processed\\detection_yolo",
+  "total_source_images": 368,
+  "labeled_images": 368,
+  "label_fraction": 1.0,
+  "confidence_threshold": 0.2,
+  "iou_threshold": 0.5,
+  "max_boxes_per_image": 1,
+  "total_boxes": 337,
+  "zero_box_images": 31,
+  "split": {
+    "train": {
+      "images": 258,
+      "boxes": 234,
+      "empty_labels": 24
+    },
+    "val": {
+      "images": 55,
+      "boxes": 51,
+      "empty_labels": 4
+    },
+    "test": {
+      "images": 55,
+      "boxes": 52,
+      "empty_labels": 3
+    }
+  },
+  "qc_images": 337
+}
