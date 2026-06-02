@@ -4,6 +4,12 @@
 __pycache__/
 .ipynb_checkpoints/
 
+# Seminar 05 local/generated intermediates and large local assets.
+designing_neural_network_architectures_2025_02/seminar_05/data/
+designing_neural_network_architectures_2025_02/seminar_05/models/
+designing_neural_network_architectures_2025_02/seminar_05/*.jsonl
+designing_neural_network_architectures_2025_02/seminar_05/*.log
+
 # Keep only seminar_01 and seminar_05 in the public repository.
 designing_neural_network_architectures_2025_02/seminar_02/
 designing_neural_network_architectures_2025_02/seminar_03/

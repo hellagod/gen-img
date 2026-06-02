@@ -1,0 +1,1568 @@
+[
+  {
+    "image": "data/-01-16-2-3-2-5-15_jpg.rf.3a82c0e7cb6b006df4c9fc87d9b55368.jpg",
+    "qwen_caption_en": "A woman in a black shirt and light blue jeans is bending over to pick up an object from a black table in an office space, with several cardboard boxes stacked on a table and cubicles in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:25:51",
+    "text": "Женщина в черной рубашке и светло-голубых джинсах изгибается, чтобы забрать предмет из черного стола в офисном помещении, с несколькими картонными коробками, сложенными на столе, и кабинками на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-3-2-5-15_jpg.rf.705a29a51fa44f15dbe29adcaf09d2e0.jpg",
+    "qwen_caption_en": "A person with red hair is bending over to pick up an object from a low table in an office space, with several stacked cardboard boxes and cubicles visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:26:06",
+    "text": "Человек с рыжими волосами изгибается, чтобы забрать объект из низкого стола в офисном помещении, с несколькими сложенными картонными коробками и шкафами, видимыми на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-3-2-5-20_jpg.rf.ff89baa4ddffc68390a744645a32236d.jpg",
+    "qwen_caption_en": "A woman with red hair wearing a black t-shirt with a floral design stands in a cluttered room with multiple desks, computers, and equipment, while two other people are seated at desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:26:21",
+    "text": "Женщина с рыжими волосами в черной футболке с цветочным дизайном стоит в запутанной комнате с несколькими столами, компьютерами и оборудованием, в то время как двое других сидят за столами на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-1-28_jpg.rf.ebeb8cf9d541d5af713ac4414162e366.jpg",
+    "qwen_caption_en": "A woman in a red and white argyle vest stands in the foreground of a cluttered office or workspace, with two other people working at desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:26:35",
+    "text": "Женщина в красном и белом жилете Аргайл стоит на переднем плане запутанного офиса или рабочего места, а еще два человека работают за столами на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-1-43_jpg.rf.ff99aa037d9bfedd3db50d5fb33aec86.jpg",
+    "qwen_caption_en": "A woman wearing a face mask stands in a cluttered office space, holding a small object, with a table, a cart, and a large motor on the floor nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:26:54",
+    "text": "Женщина в маске на лице стоит в запутанном офисе, держа в руках небольшой предмет, с столом, тележкой и большим мотором на полу рядом.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-2-25_jpg.rf.1ba567b4c64d53342ed4dc1200fcfa2d.jpg",
+    "qwen_caption_en": "A person wearing a face mask and white pants walks through a cluttered office space with desks, computers, and cardboard boxes, while two other people are seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:27:12",
+    "text": "Человек в маске для лица и белых штанах проходит через запутанное офисное помещение со столами, компьютерами и картонными коробками, в то время как двое других сидят за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-2-33_jpg.rf.e314997ea7789b9c5f6124c04783d3a7.jpg",
+    "qwen_caption_en": "A woman wearing a face mask and gloves stands in an office space, observing a black box on the floor, while a cart and various office supplies are visible around her.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:27:27",
+    "text": "Женщина в маске на лице и перчатках стоит в офисе, наблюдая за чёрной коробкой на полу, в то время как вокруг нее видна тележка и различные канцелярские принадлежности.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-2-39_jpg.rf.ac94511f8a64fa635875cf11c54c79cb.jpg",
+    "qwen_caption_en": "A woman stands in an office space with cubicles, a large piece of equipment on a cart, and a table, with a yellow and black striped line on the floor.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:27:41",
+    "text": "Женщина стоит в офисе с кабинками, большим оборудованием на тележке и столом, с желтой и черной полосой на полу.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-2-42_jpg.rf.965ebc2c5db9acbde62cd8a098f88821.jpg",
+    "qwen_caption_en": "A woman wearing a face mask stands in a cluttered office space, with a cart and equipment nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:27:52",
+    "text": "Женщина в маске на лице стоит в запутанном офисе, рядом с тележкой и оборудованием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-3-49_jpg.rf.9ec054286ca8b5b376f1359b5fefbf97.jpg",
+    "qwen_caption_en": "A man wearing a face mask is pushing a black cart with a box on it in a workshop or office space, with other equipment and people visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:28:05",
+    "text": "Человек в маске на лице толкает черную тележку с коробкой на ней в мастерской или офисе, с другим оборудованием и людьми, видимыми на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-4-20_jpg.rf.f051a8d8b7b3b35fe2976c8f290c456f.jpg",
+    "qwen_caption_en": "A woman in a white shirt and black skirt stands in a room with a large cardboard box, holding a white object, while two other people are seated at desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:28:21",
+    "text": "Женщина в белой рубашке и черной юбке стоит в комнате с большой картонной коробкой с белым предметом, в то время как двое других сидят за столами на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-4-28_jpg.rf.44fe01b2e1af7ceebd9e2d787826b7d6.jpg",
+    "qwen_caption_en": "A group of people are working in a cluttered, well-lit room with desks, computers, and large cardboard boxes, with one person in a white shirt and black skirt standing near a table in the foreground.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:28:37",
+    "text": "Группа людей работает в запутанной, хорошо освещенной комнате со столами, компьютерами и большими картонными коробками, где один человек в белой рубашке и черная юбка стоят возле стола на переднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-5-20_jpg.rf.9491b719e3674a5b0cfe838f6dff6959.jpg",
+    "qwen_caption_en": "In a cluttered, indoor workspace, a woman with red hair wearing a black t-shirt with a white flower design and light blue jeans stands with her back to the camera, reaching up to place a white box onto a wooden shelf. In the background, two other people are seated at a long table with various electronic equipment and boxes.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:28:55",
+    "text": "Женщина с рыжими волосами в черной футболке с белым цветком и светло-голубыми джинсами стоит рядом со своей спиной к камере, чтобы поместить белую коробку на деревянную полку.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-4-2-5-43_jpg.rf.fe278d450f40818555ded39e54b71ee3.jpg",
+    "qwen_caption_en": "A person wearing a face mask and gloves is standing in a cluttered office or workshop, working at a table with a cart nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:29:08",
+    "text": "Человек в маске для лица и перчатках стоит в запутанном офисе или мастерской, работая за столом рядом с тележкой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-1-211_jpg.rf.47ff785686afff295c3db6082306d066.jpg",
+    "qwen_caption_en": "In a cluttered office or lab space, a woman in a brown and white argyle sweater and a brown skirt is bending over a white table, while two other people are seated at a long desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:29:23",
+    "text": "В запутанном офисе или в лаборатории женщина в коричневом и белом свитере и коричневой юбке изгибается над белым столом, в то время как двое других сидят за длинным столом на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-1-24_jpg.rf.ed1e2603da473ea327885c86c48c6aac.jpg",
+    "qwen_caption_en": "A high-angle view of a cluttered workspace with several people working at desks, a long table in the foreground, and a red fire extinguisher on the wall.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:29:38",
+    "text": "Высокоугольный вид на запутанное рабочее пространство с несколькими людьми, работающими за столами, длинный стол на переднем плане и красный огнетушитель на стене.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-1-27_jpg.rf.514b60191e0a885025adc7507042120f.jpg",
+    "qwen_caption_en": "A group of people are gathered in a cluttered, dimly lit room with lab equipment, a long table, and stacked boxes, with one person standing near a table and others seated at a counter.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:29:54",
+    "text": "Группа людей собирается в запутанной, туманно освещенной комнате с лабораторным оборудованием, длинным столом и сложенными коробками, при этом один человек стоит рядом со столом, а другие сидят за стойкой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-1-46_jpg.rf.b93cfb670e7036fd2fd68c6a4b44213a.jpg",
+    "qwen_caption_en": "A woman in a white shirt and grey skirt, wearing white gloves, is standing in an office space and appears to be working on a table with a large piece of equipment.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:30:08",
+    "text": "Женщина в белой рубашке и серой юбке в белых перчатках стоит в офисе и, похоже, работает на столе с большим оборудованием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-2-111_jpg.rf.af5b619115aa4495f275ca4c23f52006.jpg",
+    "qwen_caption_en": "A person in a black shirt and light-colored pants is leaning over a white table in an office, writing on a piece of paper, with cubicles, desks, and a yellow and black striped tape on the floor nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:30:22",
+    "text": "Человек в черной рубашке и светлых брюках прислоняется к белому столу в офисе и пишет на листе бумаги с кубками, столами и желтой и черной лентой на полу рядом.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-2-39_jpg.rf.a1e227c539b7bd222b70b017c841db55.jpg",
+    "qwen_caption_en": "A woman in a grey t-shirt and white pants stands in an office cubicle area, next to a black cart with various items on it, while a long white table is in the foreground.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:30:37",
+    "text": "Женщина в серой футболке и белых штанах стоит в офисной кабинке, рядом с чёрной тележкой с различными предметами на ней, в то время как длинный белый стол находится на переднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-2-39_jpg.rf.b72e4e475a38ea6209f5759dd94bbedb.jpg",
+    "qwen_caption_en": "A person in a black shirt and white pants stands at a black cart in an office with cubicles, a long white table, and several cardboard boxes.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:30:51",
+    "text": "Человек в черной рубашке и белых штанах стоит у чёрной тележки в офисе с кабинками, длинным белым столом и несколькими картонными коробками.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-3-24_jpg.rf.393f405ce20e71631598626f771214c8.jpg",
+    "qwen_caption_en": "A high-angle view of a cluttered workspace with three people, a long table, a stack of boxes, and a red fire extinguisher on a white wall.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:31:09",
+    "text": "Высокоугольный вид на запутанное рабочее пространство с тремя людьми, длинный стол, стопка коробок и красный огнетушитель на белой стене.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-3-33_jpg.rf.d9ffbdf24dde3bd01d489b0544b37f72.jpg",
+    "qwen_caption_en": "A man in a white shirt and gloves walks through a cluttered office space with cubicles, a long white table, a cart with equipment, and several cardboard boxes.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:31:27",
+    "text": "Человек в белой рубашке и перчатках проходит через запутанное офисное помещение с кабинками, длинным белым столом, тележкой с оборудованием и несколькими картонными коробками.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-12_jpg.rf.2c2d37f49ca9d6022133709049e30cfd.jpg",
+    "qwen_caption_en": "A person in a white shirt and dark skirt is crouched down on the floor in a room with a long white table, a lab bench with computers, and a white door.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:31:45",
+    "text": "Человек в белой рубашке и тёмной юбке лежит на полу в комнате с длинным белым столом, лабораторией с компьютерами и белой дверью.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-313_jpg.rf.3954592e0369b69a647d64541009fac6.jpg",
+    "qwen_caption_en": "A woman in a white shirt and face mask stands in an office space, holding a white object, with a large black cart holding a plastic-wrapped item in front of her, while a large industrial motor sits on a cart to her right.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:32:00",
+    "text": "Женщина в белой рубашке и маске стоит в офисе, держа белый объект, с большой чёрной тележкой, с пластиковой оберткой перед ней, а большой промышленный мотор сидит на тележке справа.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-32_jpg.rf.0285b9f9554739d796df747c7dc86737.jpg",
+    "qwen_caption_en": "A woman wearing a face mask and gloves stands in an office space with cubicles, a long table, and equipment on a cart, while other people work at their desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:32:15",
+    "text": "Женщина в маске для лица и перчатках стоит в офисе с кабинками, длинным столом и оборудованием на тележке, в то время как другие люди работают за своими столами на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-37_jpg.rf.672f909ec80ebedeb9d05e82dbc9b4fb.jpg",
+    "qwen_caption_en": "A woman wearing a face mask and gloves stands in an office space with a long table, a cart with supplies, and cubicles in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:32:29",
+    "text": "Женщина в маске на лице и перчатках стоит в офисе с длинным столом, тележкой с принадлежностями и кабинками на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-40_jpg.rf.358fbc14dbc2b52ea09c1bbb0a5a5c2d.jpg",
+    "qwen_caption_en": "A woman wearing a face mask is standing at a table in an office, holding a small box, while other people are working at desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:32:42",
+    "text": "Женщина в маске стоит за столом в офисе, держит маленькую коробку, в то время как другие люди работают за столами на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-4-41_jpg.rf.eb0fe1b0673d1b052336fdd229d88989.jpg",
+    "qwen_caption_en": "A person in a light-colored shirt and dark pants is walking through an office space, passing a large white table and moving towards a cubicle area with other people.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:32:55",
+    "text": "Человек в светло-цветной рубашке и тёмных штанах проходит через офисное помещение, проходя мимо большого белого стола и двигаясь в сторону кабинки с другими людьми.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-5-12_jpg.rf.50f7c8749ae45dae4491dae4759272f5.jpg",
+    "qwen_caption_en": "A person stands in a laboratory or workshop, next to a long white table with a red box and papers on it, while a black cart with metal rings is in the foreground and a long table is in the middle of the room.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:33:10",
+    "text": "Человек стоит в лаборатории или мастерской, рядом с длинным белым столом с красной коробкой и бумагами, в то время как черная тележка с металлическими кольцами находится на переднем плане, а длинный стол находится посередине комнаты.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-2-5-2-5-26_jpg.rf.e5c9567d41a1e7c86395f766915dee61.jpg",
+    "qwen_caption_en": "A person in a black t-shirt and light-colored pants stands in a cluttered room with a long table, a stack of boxes, and two other people seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:33:26",
+    "text": "Человек в черной футболке и светлых брюках стоит в запутанной комнате с длинным столом, с пачкой коробок и двумя другими людьми, сидящими за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-115_jpg.rf.90a7bf85c340542376ceb3787787d0ec.jpg",
+    "qwen_caption_en": "In a cluttered office or lab space, a person in a white shirt and black skirt stands near a long table, while another person in a black shirt and face mask sits at a desk with a computer, with a cart and various boxes nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:33:43",
+    "text": "В запутанном офисе или в лаборатории человек в белой рубашке и черной юбке стоит около длинного стола, а другой человек в черной рубашке и маске с лицом сидит за столом с компьютером, с тележкой и различными коробками рядом.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-143_jpg.rf.178a761b58b6b8e8c9cdf37d8792fb5a.jpg",
+    "qwen_caption_en": "A man wearing a face mask is sitting at a desk in a cluttered office space, with a long table in the foreground, a cart with a basket, and a white door in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:33:57",
+    "text": "Человек в маске с лицом сидит за столом в запутанном офисе, с длинным столом на переднем плане, тележкой с корзиной и белой дверью на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-143_jpg.rf.aee543d16876b4c1455afd51e1a6d625.jpg",
+    "qwen_caption_en": "A high-angle view of a cluttered office or lab space with a person wearing a face mask and a black shirt sitting at a desk, a long white table with various items, a black rolling cart, and a green cabinet with papers, all under bright fluorescent lighting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:34:13",
+    "text": "Высокоугольный вид на запутанный офис или лабораторию с человеком в маске на лице и черной рубашке, сидящим за столом, длинный белый стол с различными предметами, черная повозка и зеленый шкаф с бумагами, все под ярко-флуоресцентным освещением.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-154_jpg.rf.635e7194fda32aa3abcdfad7358570a2.jpg",
+    "qwen_caption_en": "In a cluttered office space with a long table, a person wearing a face mask is seated at a desk, while another person in a white shirt and gloves stands nearby, holding a cloth.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:34:27",
+    "text": "В запутанном офисном помещении с длинным столом человек в маске с лицом сидит за столом, а другой человек в белой рубашке и перчатках стоит рядом и держит ткань.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-156_jpg.rf.0af8aed7c3f193e3d9f31e655ca2a466.jpg",
+    "qwen_caption_en": "A woman in a red and white argyle sweater stands in a lab or office space, facing a man in a black shirt and mask who is seated at a desk, with a long table and various equipment in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:34:43",
+    "text": "Женщина в красном и белом свитере стоит в лаборатории или офисе, лицом к лицу с мужчиной в черной рубашке и маске, сидящим за столом, с длинным столом и различным оборудованием на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-158_jpg.rf.889987de9ad313e53b987ed8c73e65b7.jpg",
+    "qwen_caption_en": "A woman in a brown and white argyle top and brown skirt stands in a lab or office space, facing a table with supplies and a person in a black shirt sitting at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:34:59",
+    "text": "Женщина в коричневом и белом верху и коричневой юбке стоит в лаборатории или офисе, лицом к столу с принадлежностями и человеком в черной рубашке, сидящим за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-2114_jpg.rf.a3c363d41be598d825719d206b9961df.jpg",
+    "qwen_caption_en": "In a cluttered workshop or repair shop, a woman wearing a face mask and gloves stands near a table with tools, while a man in a grey t-shirt stands facing her, with other people and equipment visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:35:14",
+    "text": "В запутанной мастерской или ремонтной лавке женщина в маске для лица и перчатках стоит рядом со столом с инструментами, а мужчина в серой футболке стоит перед ней, а на заднем плане видны другие люди и оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-220_jpg.rf.00eee5b7252e98b828f97e571397e4c3.jpg",
+    "qwen_caption_en": "In a cluttered workshop or lab, two people stand near a table with various items, while another person is visible in the background, and a large box of metal parts sits on the floor in the foreground.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:35:28",
+    "text": "В запутанной мастерской или лаборатории два человека стоят рядом со столом с различными предметами, в то время как другой человек виден на заднем плане, и большая коробка металлических частей сидит на полу на переднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-28_jpg.rf.7c03ee6b84bbefce8452dae47f6e4e12.jpg",
+    "qwen_caption_en": "In a cluttered workshop, two women wearing face masks and gloves stand near a table with a box of metal rings, while other people work at desks with computers and electronic equipment in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:35:42",
+    "text": "В запутанной мастерской две женщины в масках и перчатках стоят рядом со столом с коробкой металлических колец, в то время как другие работают за столами с компьютерами и электронным оборудованием на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-311_jpg.rf.7a755bc7e987828f2b5b08745f800ee6.jpg",
+    "qwen_caption_en": "A woman wearing a face mask and gloves stands in an office space, observing a table with various items, including a water bottle, a box, and a small electronic device, while a cart and equipment are visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:36:01",
+    "text": "Женщина в маске на лице и перчатках стоит в офисе, наблюдая за столом с различными предметами, включая бутылку с водой, коробку и небольшое электронное устройство, в то время как на заднем плане видны тележка и оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3125_jpg.rf.366f96f4f3c9b4f81deaf519bce51867.jpg",
+    "qwen_caption_en": "In an office with cubicles, two people are standing near a table with several small metal rings and a cart, while a large fan and other equipment are visible on a shelf.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:36:21",
+    "text": "В офисе с кабинками два человека стоят рядом со столом с несколькими маленькими металлическими кольцами и тележкой, в то время как на полке видны большие вентиляторы и другое оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3134_jpg.rf.2eab72c127f5a0c12c02dbbd4aa1935e.jpg",
+    "qwen_caption_en": "In an office with cubicles, a man wearing a face mask and gloves is handing a blue object to a woman in a white shirt and black skirt, while a table in the foreground holds several small items and a document.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:36:41",
+    "text": "В офисе с кабинками мужчина в маске для лица и перчатках передает синий предмет женщине в белой рубашке и черной юбке, в то время как в столе на переднем плане находится несколько небольших предметов и документ.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3134_jpg.rf.fa399f7870e17ea682deca6f4efe580c.jpg",
+    "qwen_caption_en": "In an office with cubicles, a man wearing a face mask and gloves is handing a blue object to a woman in a white shirt and black skirt, while a table with various items is in the foreground.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:36:59",
+    "text": "В офисе с кабинками мужчина в маске для лица и перчатках передает синий объект женщине в белой рубашке и черной юбке, а стол с различными предметами находится на переднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3134_jpg.rf.ffaa0a954bcc91560fb47a9704e55a26.jpg",
+    "qwen_caption_en": "In an office with cubicles, a man wearing a face mask and gloves is handing a blue object to a woman in a white shirt and black skirt, who is also wearing a face mask, while standing near a table with a white surface and a few items on it.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:37:19",
+    "text": "В офисе с кабинками мужчина в маске для лица и перчатках передает синий объект женщине в белой рубашке и черной юбке, которая также носит маску для лица, стоя около стола с белой поверхностью и несколькими предметами на ней.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3136_jpg.rf.02ae285bb2416afe8d515c18c4042f7c.jpg",
+    "qwen_caption_en": "In a cluttered office space with cubicles, two women are standing near a table, with one wearing a face mask and the other with her back to the camera.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:37:34",
+    "text": "В запутанном офисе с кабинками две женщины стоят рядом со столом, одна из которых носит маску для лица, а другая - с спиной к камере.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-3145_jpg.rf.4f61b91f63652aefa6e9a61c60c1ec04.jpg",
+    "qwen_caption_en": "In an office with cubicles, two people wearing gloves stand near a table with various items, while another person is visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:37:47",
+    "text": "В кабинете с кабинками два человека в перчатках стоят рядом со столом с различными предметами, в то время как другой человек виден на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-329_jpg.rf.53c50adef42cd158c5c25e8778ddf59f.jpg",
+    "qwen_caption_en": "In a cluttered office space with cubicles, two women wearing face masks are standing near a table, with one woman holding a device to the other's forehead, possibly for a temperature check.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:38:01",
+    "text": "В запутанном офисе с кабинками две женщины в масках стоят рядом со столом, а одна женщина держит устройство на лбу другой, возможно, для проверки температуры.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-336_jpg.rf.9d71a93f1a55d493b8b5de9c0fb1e752.jpg",
+    "qwen_caption_en": "In a cluttered office space with cubicles, two women wearing face masks and white gloves stand behind a table with various items, while other people are visible working at their desks in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:38:15",
+    "text": "В запутанном офисе с кабинками две женщины в масках и белых перчатках стоят за столом с различными предметами, в то время как другие люди работают за своими столами на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-345_jpg.rf.12d59814cf3e3e681bae35a0907989c8.jpg",
+    "qwen_caption_en": "In a cluttered office space with cubicles, two women wearing face masks are standing at a table, exchanging a white object, possibly a piece of equipment or a package, while wearing gloves.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:38:30",
+    "text": "В запутанном офисе с кабинками две женщины в масках стоят за столом, обменивая белый предмет, возможно, кусок оборудования или пакет, нося перчатки.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-351_jpg.rf.62d10ef4893392dd66b9bb347981d4ae.jpg",
+    "qwen_caption_en": "In an office with cubicles, two women wearing face masks stand near a table with a water bottle, a phone, and a box, while a man is visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:38:45",
+    "text": "В офисе с кабинками две женщины в масках стоят рядом со столом с бутылкой воды, телефоном и коробкой, в то время как мужчина виден на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-355_jpg.rf.a9662ab697b6d5482db430745af9ac09.jpg",
+    "qwen_caption_en": "In an office with cubicles, two women wearing face masks stand near a table with a water bottle, a phone, and a box, while a large industrial motor sits on a rack to the right.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:39:01",
+    "text": "В офисе с кабинками две женщины в масках стоят рядом со столом с бутылкой с водой, телефоном и коробкой, в то время как большой промышленный двигатель сидит на стойке справа.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-358_jpg.rf.1773685846e6b358e49a07a924b409d6.jpg",
+    "qwen_caption_en": "In a cluttered office space with cubicles, two people wearing face masks stand near a table with electronic equipment, while a cart and various items are visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:39:15",
+    "text": "В запутанном офисе с кабинками два человека в масках стоят рядом со столом с электронным оборудованием, в то время как на заднем плане видны тележка и различные предметы.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-377_jpg.rf.7c831604a49603c21976d519c5006733.jpg",
+    "qwen_caption_en": "In an office with cubicles, two women wearing white gloves stand near a table with various items, including a smartphone, a box, and a bottle, while a cart is positioned nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:39:29",
+    "text": "В офисе с кабинками две женщины в белых перчатках стоят рядом со столом с различными предметами, включая смартфон, коробку и бутылку, а рядом находится тележка.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-382_jpg.rf.f22143bc87911e9ad422abc2254bee6b.jpg",
+    "qwen_caption_en": "In an office with cubicles, two women wearing face masks stand near a table with electronic equipment, while a third person is visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:39:42",
+    "text": "В кабинете с кабинками две женщины в масках стоят рядом со столом с электронным оборудованием, в то время как на заднем плане видно третье лицо.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-438_jpg.rf.bf6fb9f0958f6ec7e6ec733656d499db.jpg",
+    "qwen_caption_en": "A high-angle view of a cluttered office space with a long table in the foreground, a person standing near it, and several cubicles in the background, with a person sitting at a desk in the distance.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:39:59",
+    "text": "Высокоугольный вид запутанного офисного помещения с длинным столом на переднем плане, человеком, стоящим рядом с ним, и несколькими кабинками на заднем плане, с человеком, сидящим за столом на расстоянии.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-456_jpg.rf.7e0d54645cd7cba46d3413c97c4f7daf.jpg",
+    "qwen_caption_en": "In a cluttered office space, two people wearing face masks and gloves stand near a table with various items, while another person is visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:40:14",
+    "text": "В запутанном офисе два человека в масках и перчатках стоят рядом со столом с различными предметами, в то время как другой человек виден на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-466_jpg.rf.bb378c864e171fa8ce762995b00e8ebc.jpg",
+    "qwen_caption_en": "In a dimly lit office space with cubicles, two women stand near a long table with various items, while a person in a dark shirt and light pants stands in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:40:27",
+    "text": "В туманно освещенном офисе с кабинками две женщины стоят возле длинного стола с различными предметами, в то время как человек в темной рубашке и светлых штанах стоит на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-468_jpg.rf.08ab7755c9ca2684cfe71355266939c6.jpg",
+    "qwen_caption_en": "In a cluttered workshop or lab, two people wearing gloves stand near a table with various small parts and a large motor, while a woman in a dark shirt and light pants stands in front of a partitioned work area.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:40:43",
+    "text": "В запутанной мастерской или лаборатории два человека в перчатках стоят возле стола с различными маленькими частями и большим двигателем, а женщина в темной рубашке и световых штанах стоит перед разделенным местом работы.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-472_jpg.rf.683beb6dbdca68d2cc78dd90b07c5764.jpg",
+    "qwen_caption_en": "In a cluttered office or lab space, a woman in a white shirt and black skirt stands at a table with several metal rings, while a man in a grey t-shirt and face mask stands nearby, both wearing gloves.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:40:57",
+    "text": "В запутанном офисе или в лабораторных помещениях женщина в белой рубашке и черной юбке стоит за столом с несколькими металлическими кольцами, а мужчина в серой футболке и маске рядом, оба в перчатках.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-485_jpg.rf.7944e6b89af71d05f518448cc9fd1696.jpg",
+    "qwen_caption_en": "In a cluttered office space, two women wearing face masks stand near a white table with various items, while other people are visible in the background working at desks.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:41:13",
+    "text": "В запутанном офисе две женщины в масках стоят рядом с белым столом с различными предметами, в то время как на заднем плане они работают за столами.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-488_jpg.rf.a74f9f7cf615d91841288c20e642cb6a.jpg",
+    "qwen_caption_en": "In a cluttered workshop or lab, two people wearing face masks and gloves stand near a long white table with various small items, while a large piece of machinery sits on a cart in the foreground.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:41:33",
+    "text": "В запутанной мастерской или лаборатории два человека в масках и перчатках стоят около длинного белого стола с различными маленькими предметами, а большой кусок машины сидит на тележке на переднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-01-16-3-1-3-1-488_jpg.rf.da8809820ee9aec6c318c695686628ae.jpg",
+    "qwen_caption_en": "In a cluttered workshop or lab, two women wearing face masks and gloves stand near a long white table with various items, while a large piece of equipment is on the floor nearby.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:41:51",
+    "text": "В запутанной мастерской или лаборатории две женщины в масках и перчатках стоят около длинного белого стола с различными предметами, в то время как большой кусок оборудования находится поблизости на полу.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-1116_jpg.rf.4ed1c7bf673dd20c3b7cea29f36a6743.jpg",
+    "qwen_caption_en": "In a laboratory or workshop setting, two people wearing face masks are standing near a long table with various items, while another person is seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:42:08",
+    "text": "В лаборатории или мастерской два человека в масках стоят около длинного стола с различными предметами, в то время как другой человек сидит за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-111_jpg.rf.1e8aa5db7b63e6ab45addfc2f3438d93.jpg",
+    "qwen_caption_en": "A woman in a face mask stands in an office or lab, facing a long table with a black box and other items, while a man in a mask sits at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:43:50",
+    "text": "Женщина в маске стоит в офисе или лаборатории, лицом к длинному столу с чёрной коробкой и другими предметами, в то время как мужчина в маске сидит за столом на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-1129_jpg.rf.df8857e7856b5f5663f74c6b18069ba2.jpg",
+    "qwen_caption_en": "In a laboratory or workshop, two people wearing face masks are standing near a long white table with various small items, while another person is seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:44:06",
+    "text": "В лаборатории или мастерской два человека в масках стоят около длинного белого стола с различными мелкими предметами, а другой человек сидит за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-139_jpg.rf.e4bd8811746ba5faaaf6ff8499675f46.jpg",
+    "qwen_caption_en": "In a dimly lit office space, two women wearing face masks stand near a long table, while a man in a black shirt sits at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:44:19",
+    "text": "В туманно освещенном офисе две женщины в масках стоят рядом с длинным столом, в то время как мужчина в черной рубашке сидит за столом на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-169_jpg.rf.2899a8e00a3e4e48479b732f9b7aca69.jpg",
+    "qwen_caption_en": "In a classroom or lab setting, a woman in a white shirt and face mask walks toward a table with a long white table, while another woman in a brown and white top and face mask stands nearby, and a man in a black shirt and face mask sits at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:44:36",
+    "text": "В классе или в лаборатории женщина в белой рубашке и маске ходит к столу с длинным белым столом, в то время как другая женщина в коричневом и белом топе и маске лица стоит рядом, а мужчина в черной рубашке и маске сидит за столом на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-184_jpg.rf.fe1904e629dda7d669fefe144da9cfb1.jpg",
+    "qwen_caption_en": "In a classroom or office setting, a man in a grey shirt and a woman in a black shirt are standing near a table with a box of supplies, while another person is seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:44:52",
+    "text": "В классе или офисе мужчина в седой рубашке и женщина в черной рубашке стоят рядом со столом с коробкой с принадлежностями, а другой человек сидит за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-2108_jpg.rf.ad60dbafd4d3be23de2793872a49f2b5.jpg",
+    "qwen_caption_en": "In a cluttered workspace with several people, two women wearing face masks and gloves stand near a table with small electronic components, while a man in a black shirt works at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:45:06",
+    "text": "В запутанном рабочем пространстве с несколькими людьми две женщины в масках и перчатках стоят рядом со столом с небольшими электронными компонентами, в то время как мужчина в черной рубашке работает за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-238_jpg.rf.ffd35a5398467cf7f55298083081a540.jpg",
+    "qwen_caption_en": "A high-angle view of a cluttered workshop or lab, where a person in a grey shirt and white pants stands in the foreground, while two other people are seated at desks in the background, working with various electronic equipment and tools.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:45:24",
+    "text": "Высокоугольный вид на запутанную мастерскую или лабораторию, где человек в серой рубашке и белых штанах стоит на переднем плане, в то время как два других человека сидят за столами на заднем плане, работая с различным электронным оборудованием и инструментами.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-263_jpg.rf.fe68a6f407d74825f32c77be51e958e3.jpg",
+    "qwen_caption_en": "In a cluttered workshop or lab, two people wearing face masks and gloves stand at a table, seemingly working on or inspecting a collection of metal rings, while other people are visible in the background at workstations.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:45:40",
+    "text": "В запутанной мастерской или лаборатории два человека в масках и перчатках стоят за столом, по-видимому, работая над коллекцией металлических колец или проверяя их, в то время как другие люди видны на заднем плане на рабочих станциях.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/-03-3-1-264_jpg.rf.ca683cb749581540b021869946b17234.jpg",
+    "qwen_caption_en": "In a cluttered electronics workshop, three people wearing face masks are present, with one person standing in the center holding a tall object, while another stands to the left and a third is seated at a desk in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:45:55",
+    "text": "В запутанной мастерской по электронике присутствуют три человека в масках, один человек стоит в центре с высоким предметом, а другой стоит слева, а третий сидит за столом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000013_jpg.rf.a7b4df633397510725f11d8daa0592cb.jpg",
+    "qwen_caption_en": "Three medical professionals in protective gear, including face masks and gowns, are posing for a photo in a clinical setting, all giving a thumbs-up.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:46:07",
+    "text": "Трое медицинских специалистов в защитном снаряжении, включая маски и платья, позируют фото в клинической среде, и все они дают большой палец.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000034_jpg.rf.b1df7212854dfc5d46aa59ad95e41acd.jpg",
+    "qwen_caption_en": "Two men are shown wearing dark green, full-body protective suits with hoods, blue gloves, and black rubber boots, standing against a white background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:46:20",
+    "text": "Двое мужчин одеты в тёмно-зеленые костюмы для защиты всего тела с капюшонами, синими перчатками и черными резиновыми сапогами, стоящими на белом фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000059_jpg.rf.7ef4dd1d56d0eeff1f0b6b2825d1948c.jpg",
+    "qwen_caption_en": "A group of medical professionals in white coats, blue caps, and face masks are gathered in a hospital room, standing in a circle and listening to a discussion.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:46:34",
+    "text": "Группа медицинских работников в белых халатах, синих шапочках и масках на лице собирается в больничной комнате, стоя в круге и слушая дискуссию.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000062_jpg.rf.08a07298e0d6a4bfbf0a6c08cf7589fc.jpg",
+    "qwen_caption_en": "A man in a white fur jacket and white gloves sings into a microphone on a stage, with another performer partially visible to his left.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:46:48",
+    "text": "Человек в белой меховой куртке и белых перчатках поет в микрофон на сцене, а другой исполнитель слева частично виден.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000066_jpg.rf.894014d1cd8ea3c5447c30422b0c40e2.jpg",
+    "qwen_caption_en": "A woman in a green military uniform and glasses waves from a red carpet, with a crowd of photographers behind a barrier.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:47:00",
+    "text": "Женщина в зеленой военной униформе и очках снимает волны с красной дорожки, с толпой фотографов за барьером.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000081_jpg.rf.a00c27d13fe18149dfc9685e64831d7c.jpg",
+    "qwen_caption_en": "A man is shown in a full black waterproof jumpsuit with a hood, blue gloves, and tall rubber boots, standing outdoors in a grassy area with trees.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:47:14",
+    "text": "Мужчина показан в черном водонепроницаемом комбинезоне с капюшоном, синими перчатками и высокими резиновыми сапогами, стоя на улице в травяной зоне с деревьями.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000115_jpg.rf.7225b6f1e2602eaf84c8011a2558c9ae.jpg",
+    "qwen_caption_en": "A smiling woman with curly blonde hair, wearing a knitted hat with a pom-pom, a red scarf, and maroon gloves, is looking down at her hands against a plain grey background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:47:28",
+    "text": "Улыбающаяся женщина с кудрявыми светлыми волосами, в вязаной шляпе с помпом, красным шарфом и маруновыми перчатками, смотрит вниз на руки на простом сером фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000118_jpg.rf.f736e84235a6ff43adde57ec61df7646.jpg",
+    "qwen_caption_en": "A person is wearing white, fluffy gloves with a cute bear face on the palm, holding a smartphone and using the touch screen.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:47:42",
+    "text": "Человек носит белые, пушистые перчатки с милым медведем на ладони, держит смартфон и использует прикосновение.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000129_jpg.rf.88e340c78f9d8544486ea9f695507609.jpg",
+    "qwen_caption_en": "A woman with short dark hair, wearing a black polka-dot dress with red and white patterned sleeves, white gloves, and a tan jacket tied around her waist, poses with her arms crossed and looking at the camera in a studio setting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:48:04",
+    "text": "Женщина с короткими тёмными волосами, одетая в чёрное платье с полькой с красными и белыми рукавами, белыми перчатками и загарным пиджаком, привязанным вокруг ее талии, позирует скрестив руки и посмотрев на камеру в студии.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000222_jpg.rf.c5a9d22e625513f99d4f8052035327c0.jpg",
+    "qwen_caption_en": "Two medical professionals in full protective suits and masks walk down a hospital corridor.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:48:18",
+    "text": "Двое медицинских работников в костюмах и масках идут по больничному коридору.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000238_jpg.rf.266895d27815c47482bf1e5b98ed765e.jpg",
+    "qwen_caption_en": "A person wearing a black puffer jacket and white gloves with a red watermark on the back of the right glove is holding their hands together in front of them.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:48:35",
+    "text": "Человек в черном пиджаке и белых перчатках с красным водяным знаком на задней части правой перчатки держит свои руки перед ними.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000241_jpg.rf.80f02965174ec541cd49ccfa89f32bb1.jpg",
+    "qwen_caption_en": "A collage of hands wearing blue medical gloves holding various medical instruments and tools, including syringes, a stethoscope, a toothbrush, forceps, and a collection of pills.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:48:53",
+    "text": "Коллаж рук в синих медицинских перчатках с различными медицинскими инструментами и инструментами, включая шприцы, стетоскоп, зубную щетку, щипцы и коллекцию таблеток.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000252_jpg.rf.65a1770d348389e9b27be04c77bae359.jpg",
+    "qwen_caption_en": "A man wearing a hat and face mask stands next to a white van, while a woman in a purple shirt and face mask stands beside him, both appearing to be in a public outdoor setting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:49:10",
+    "text": "Мужчина в кепке и маске лица стоит рядом с белым фургоном, в то время как женщина в фиолетовой рубашке и маске лица стоит рядом с ним, и оба, похоже, находятся на открытом воздухе.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000277_jpg.rf.6ac9a12a8d3df53bff82505a9f8795bc.jpg",
+    "qwen_caption_en": "Two people in white protective suits are eating food in the back of a vehicle, with a red bag and other supplies visible on the floor.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:49:24",
+    "text": "Два человека в белых защитных костюмах едят еду в задней части автомобиля с красным пакетом и другими принадлежностями, видимыми на полу.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000297_jpg.rf.4a67121e096fd282d301bf30ac2a1e49.jpg",
+    "qwen_caption_en": "A woman with dark hair in a braid, wearing black boxing gloves and a black tank top, stands in a boxing ring with a focused expression.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:49:36",
+    "text": "Женщина с темными волосами в косичке, одетая в черные боксерские перчатки и чёрный танк, стоит в боксерском кольце с сфокусированным выражением.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000312_jpg.rf.8072b6954597c1747cf9995926987782.jpg",
+    "qwen_caption_en": "A pair of white, knitted work gloves with green trim on the cuffs are shown on a person's hands, with one hand resting on top of the other.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:49:50",
+    "text": "На руках человека показана пара белых вязаных рабочих перчаток с зеленой обрезкой на наручниках, одна рука лежит сверху другой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000318_jpg.rf.efe7bc46e125474f738543a7158add64.jpg",
+    "qwen_caption_en": "A person wearing blue medical gloves is in a clinical setting, with a medical device in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:50:01",
+    "text": "Человек, одетый в синие медицинские перчатки, находится в клиническом окружении с медицинским устройством на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000360_jpg.rf.e826710b8e79d895fe7d9c4385dba68f.jpg",
+    "qwen_caption_en": "A group of medical staff in full protective suits and masks are posing for a photo in a hospital corridor, all giving a thumbs-up.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:50:14",
+    "text": "Группа медицинских работников в полностью защитных костюмах и масках позирует на фото в больничном коридоре, и все они поднимут палец.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000372_jpg.rf.4600f5aa0a24e28e5cbda75340bd21f6.jpg",
+    "qwen_caption_en": "A young man stands on a paved walkway in front of a building, wearing a dark green double-breasted coat, dark trousers, and a blue shirt, with a black beanie on his head.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:50:29",
+    "text": "Молодой человек стоит на вымощенной дорожке перед зданием, одетый в тёмно-зелёное двойное пальто, тёмные брюки и синюю рубашку, с чёрной фасолью на голове.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000390_jpg.rf.8c4b0645ca6755b39edc2046a8a359d7.jpg",
+    "qwen_caption_en": "A group of people wearing face masks are walking in a line, holding hands, in front of a large monument and a building, during what appears to be dusk.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:50:42",
+    "text": "Группа людей в масках на лице ходит по линии, держась за руки перед большим памятником и зданием, во время того, что кажется затмением.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000408_jpg.rf.fcbae13e5ea9f30c4a6a6a8715b78314.jpg",
+    "qwen_caption_en": "Two men in business attire are lying on the floor, appearing to be unconscious or injured, in what looks like an office or room setting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:50:54",
+    "text": "Два человека в деловой одежде лежат на полу, кажется, без сознания или травмированы, в том, что выглядит как офис или комната.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000444_jpg.rf.a16558d8b964d31e21042413fe0cc676.jpg",
+    "qwen_caption_en": "In a bathroom, a man in a dark suit is bent over a man who is tied to the floor with ropes, while a toilet is visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:51:07",
+    "text": "В ванной мужчина в темном костюме сгибается над мужчиной, который привязан к полу веревками, а на заднем фоне видна туалет.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000454_jpg.rf.732d0ce5562a4624b65324955bb25f10.jpg",
+    "qwen_caption_en": "A person wearing a blue medical gown is putting on a white disposable glove, with the Medispo logo visible in the corner.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:51:20",
+    "text": "Человек в синем медицинском платье надевает белую одноразовую перчатку с логотипом Медиско, видимым в углу.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000474_jpg.rf.4b6057b2e26b8a6003cf24cc6039a353.jpg",
+    "qwen_caption_en": "A person wearing white gloves is holding and examining several nails on a wooden surface.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:51:32",
+    "text": "Человек в белых перчатках держит и осматривает несколько гвоздей на деревянной поверхности.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000487_jpg.rf.95bbd264d24ec90b52308b6fc9aea8ea.jpg",
+    "qwen_caption_en": "A medical professional in light blue scrubs, a surgical cap, and a face mask is adjusting their cap with both hands, standing against a plain, light-colored wall.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:51:45",
+    "text": "Медицинский профессионал в легкой синей чистке, хирургическая кепка и маска лица регулируют свою кепку обеими руками, стоя напротив простой, светло-красной стены.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000488_jpg.rf.8678eb6cd0a141ee6a970f54c2daf6c6.jpg",
+    "qwen_caption_en": "A construction worker in a hard hat, safety vest, and face mask holds a megaphone, standing on a busy construction site with cranes and workers in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:51:58",
+    "text": "Строитель в жесткой шляпе, жилете и маске с лицом держит мегафон, стоя на занятой строительной площадке с кранами и рабочими на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000497_jpg.rf.63a1cb3b5eb8cdda62d96e13960871c1.jpg",
+    "qwen_caption_en": "Two medical professionals in full protective gear, including hazmat suits and face shields, are posing together in a clinical setting, with one raising their fist in a gesture of triumph or solidarity.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:52:12",
+    "text": "Два медицинских специалиста в полном защитном снаряжении, включая костюмы для жасмы и щиты для лиц, выстраиваются вместе в клинической обстановке, а один поднимает кулак в знак триумфа или солидарности.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000563_jpg.rf.976891a8a4219b33636246b8fdbbecec.jpg",
+    "qwen_caption_en": "A woman in a light blue and orange dress stands in a crowd of formally dressed people, including a man in a dark suit and a man in a grey suit, at what appears to be a public event or gathering.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:52:27",
+    "text": "Женщина в светло-голубом и оранжевом платье стоит в толпе официально одетых людей, включая мужчину в темном костюме и мужчину в сером костюме, на том, что, как представляется, является публичным мероприятием или собранием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000569_jpg.rf.31982c8831cb4dfc528fbcd8bc463235.jpg",
+    "qwen_caption_en": "A medical worker in a hospital setting, wearing a blue surgical cap and mask, is carefully handling a large number of glass vials on a table.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:52:41",
+    "text": "Медицинский работник в больнице, одетый в синюю хирургическую шапку и маску, тщательно обрабатывает большое количество стеклянных пузырей на столе.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000578_jpg.rf.7c38219c3e45e82133c0c97fe9c5fbdb.jpg",
+    "qwen_caption_en": "A pair of white, long-sleeved gloves are displayed against a backdrop of lush green foliage.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:52:52",
+    "text": "Пару белых, длинных перчаток выставляют на фоне листьев зеленого цвета.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000581_jpg.rf.df5cc296e606855c295bff0ea7299243.jpg",
+    "qwen_caption_en": "Two hands are gently holding and massaging a person's hand, with a soft, white background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:53:05",
+    "text": "Две руки аккуратно держат и массируют руку человека мягким белым фоном.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000586_jpg.rf.b4cb82528cf01e6bb3ade4c6debbdb44.jpg",
+    "qwen_caption_en": "Two silicone hands are shown in a close-up, with one hand gently resting on the palm of the other, against a plain white background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:53:21",
+    "text": "Две руки силикона показаны в плотном слое, одна рука аккуратно лежит на ладони другой на белом фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000608_jpg.rf.d5cab416da8bbfd5f5f7511b7ffc06fb.jpg",
+    "qwen_caption_en": "A person in a white protective suit with blue trim is in the process of putting on a pair of light-colored gloves, with their hands and the gloves being the central focus.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:53:40",
+    "text": "Человек в белом защитном костюме с синей обрезкой сейчас надевает пару светло-цветных перчаток, и их руки и перчатки находятся в центре внимания.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000642_jpg.rf.5b7ed01aaa36c2ceaae4a8fd8c7d2fe2.jpg",
+    "qwen_caption_en": "A pair of hands with French manicured nails gently applies a white cream to the palm of the other hand, with a soft reflection of the hands and cream on the water's surface.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:53:57",
+    "text": "Пара рук с французскими маникюрными ногтями мягко прикрепляет белый крем к ладони другой руки с мягким отражением рук и крема на поверхности воды.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000673_jpg.rf.81ea1967ce4778c0ad77e9ae000d9799.jpg",
+    "qwen_caption_en": "A close-up image shows two hands with palms facing each other and fingers interlocked, performing a rubbing motion.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:54:13",
+    "text": "Картинка с крупным планом показывает две руки с ладони, обращенными друг к другу, и пальцы сцеплены друг с другом, совершая трящее движение.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000688_jpg.rf.a2ca38c6aac4f887217706dceca457d4.jpg",
+    "qwen_caption_en": "A person is applying a white cream to their hands, with one hand holding the cream and the other hand receiving it.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:54:25",
+    "text": "Человек прикладывает белый крем к рукам, одна рука держит крем, а другая получает его.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000691_jpg.rf.293120ad2191f68b5df624ec5e7cf6e4.jpg",
+    "qwen_caption_en": "A man with dark hair and a plaid shirt is shown in profile, wearing a large, ornate gold ring on his right ring finger, with his hand gently touching his ear.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:54:42",
+    "text": "Человек с тёмными волосами и клетчатой рубашкой показан в профилье, в большом орнатуре золотое кольцо на его правом кольце, с его рукой, мягко прикоснувшись к уху.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000742_jpg.rf.3fe1e057eb51fbb504f4a3a5542c7c7f.jpg",
+    "qwen_caption_en": "A pair of hands wearing clear disposable gloves forms a heart shape against a plain white background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:54:54",
+    "text": "Пара рук в прозрачных одноразовых перчатках формирует сердце на белом фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000754_jpg.rf.1ae332ec817423d6db320df891eb4474.jpg",
+    "qwen_caption_en": "A person wearing a red jacket with their hands clasped in front of them, showing signs of aging and possibly a condition like psoriasis on their palms.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:55:10",
+    "text": "Человек в красной куртке с зажатыми перед ним руками, у которого есть признаки старения и, возможно, такое состояние, как псориаз на их ладони.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000764_jpg.rf.d78d231d006948c54beba1c92f2d5d63.jpg",
+    "qwen_caption_en": "A pair of black and white striped knit gloves with red cuffs are shown on a person's hands, displayed against a plain light gray background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:55:24",
+    "text": "На руках человека показана пара черных и белых вязаных перчаток с красными наручниками, выставленных на простом сером фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000806_jpg.rf.b73c0ecf922a55610688319feec9808a.jpg",
+    "qwen_caption_en": "A woman in a light-colored, high-collared dress sits on a purple tufted couch, while a man in a dark blue military-style jacket kneels beside her, looking down at her hands.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:55:41",
+    "text": "Женщина в светло-цветном платье с высокоокрашенным платье сидит на фиолетовом диване, в то время как мужчина в темно-синей военной куртке склоняется на колени рядом с ней, глядя на ее руки.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000819_jpg.rf.cb4707814cb65af2902363d16db0c4ca.jpg",
+    "qwen_caption_en": "A large group of children in a classroom are enthusiastically performing a dance or exercise, raising their arms and wearing white bunny ears.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:55:54",
+    "text": "Большая группа детей в классе с энтузиазмом танцуют или упражняются, поднимают руки и носят белые кролики.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000850_jpg.rf.385f75ea4c21a212fcd0e5bf8edf05a8.jpg",
+    "qwen_caption_en": "A person in a white lab coat is putting on a blue nitrile glove, with their hands in the process of adjusting the glove on their right hand.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:56:09",
+    "text": "Человек в белом халате надевает синюю нитрилевую перчатку с руками в процессе корректировки перчатки на правой руке.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000854_jpg.rf.6c1b5493c070d41689266e688e18881d.jpg",
+    "qwen_caption_en": "A young man wearing a black cowboy hat and a black t-shirt is holding a vintage microphone, posing against a red background for the cover of his first mini album, \"Darlin\".",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:56:25",
+    "text": "Молодой человек в черной ковбойской шляпе и черной футболке держит винтажный микрофон, позируя на красный фон для обложки своего первого мини-альбома \"Darlin\".",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000905_jpg.rf.b5776bb831de0f5b8ee93d6aff0b6f67.jpg",
+    "qwen_caption_en": "A hand wearing a transparent glove is holding a black computer mouse on a wooden desk.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:56:37",
+    "text": "Рука в прозрачной перчатке держит чёрную компьютерную мышь на деревянном столе.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000928_jpg.rf.2ec3009b69d2f8df275bcc4e3e436537.jpg",
+    "qwen_caption_en": "A person wearing long, white satin gloves is seated, with their hands resting on a white dress.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:56:50",
+    "text": "Человек, одетый в длинные белые сатиновые перчатки, сидит, а его руки лежат на белом платье.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000931_jpg.rf.7162ef32b03ab18351055d0febac0a9f.jpg",
+    "qwen_caption_en": "A young man in a formal suit and white gloves sits in the driver's seat of a modern car, looking forward with a professional demeanor.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:57:04",
+    "text": "Молодой человек в формальном костюме и белых перчатках сидит на водительском сиденье современной машины и смотрит в будущее с профессиональным поведением.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000950_jpg.rf.4ba24baf2cbe18b90d6a3bc98944a2e2.jpg",
+    "qwen_caption_en": "A healthcare worker in full protective gear stands behind a desk labeled \"Fever Patient Pre-screening\" in a medical facility, holding a thermometer and surrounded by medical supplies.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:57:20",
+    "text": "Медицинский работник с полным защитным снаряжением стоит за столом с надписью \"Fever People People Pre-Testing\" в медицинском учреждении, держа термометр и окруженный медицинскими материалами.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000000967_jpg.rf.2335682c2217671ca768922cf6428202.jpg",
+    "qwen_caption_en": "A smiling female teacher stands in a classroom, pointing at the students who are all raising their hands enthusiastically.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:57:34",
+    "text": "Улыбающаяся учительница стоит в классе, указывая на учеников, которые с энтузиазмом поднимают руки.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000001004_jpg.rf.38dbe791c56b114a671ed3c8609cee76.jpg",
+    "qwen_caption_en": "A woman in traditional attire, with her hair tied back, is shown in profile, holding a small object in her hands and looking down with a gentle expression.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:57:49",
+    "text": "Женщина в традиционной одежде с волосами, привязанными к спине, показана в профилье, держа маленький объект в руках и глядя вниз с нежным выражением.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000001040_jpg.rf.08a3d76e71da960f4356ea6b7073ec60.jpg",
+    "qwen_caption_en": "A man in a formal black uniform with gold trim, a peaked cap, and white gloves is holding a walkie-talkie to his ear, standing outdoors in a formal setting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:58:04",
+    "text": "Человек в формальной черной форме с золотой обрезкой, пиковой шапочкой и белыми перчатками держит рацию к уху, стоя на улице в формальной обстановке.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/0000001046_jpg.rf.7e7cef35695ba404b8c03af9bd43cf76.jpg",
+    "qwen_caption_en": "A person wearing light blue nitrile gloves holds their hands together in a gesture, with a bookshelf and some books visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:58:18",
+    "text": "Человек в светло - голубых нитроглазых перчатках держит свои руки в жесте, с книжной полкой и некоторыми книгами, видимыми на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/00596_jpg.rf.9e877550d26a8b01cbdfc022cae536c5.jpg",
+    "qwen_caption_en": "Three men are standing outdoors in a construction or industrial area, with one man in a red hard hat and another holding a clipboard, appearing to be engaged in a discussion or inspection.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:58:36",
+    "text": "Трое мужчин стоят на открытом воздухе в строительной или промышленной зоне, а один мужчина находится в красной жесткой шляпе, а другой имеет буфер обмена, который, как представляется, участвует в обсуждении или инспекции.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/116_JPG_jpg.rf.2f079a0caaaa30cb0c1aafaf5d78bee5.jpg",
+    "qwen_caption_en": "A man wearing a face mask and protective gloves stands in a workshop, with a large metal column and various tools and materials around him.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:58:49",
+    "text": "Мужчина в маске на лице и защитных перчатках стоит в мастерской с большой металлической колонной и различными инструментами и материалами вокруг него.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/122_JPG_jpg.rf.d6cc999883c9b9237bdca87dde33a9aa.jpg",
+    "qwen_caption_en": "A man wearing a face mask, safety goggles, and green gloves stands in a workshop, wearing a blue polo shirt and jeans, with tools and construction materials around him.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:59:03",
+    "text": "Мужчина в маске на лице, очках безопасности и зеленых перчатках стоит в мастерской, одетый в синюю рубашку и джинсы с инструментами и строительными материалами вокруг него.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/129_jpg.rf.3e57cc417ccf65668ea6ae59499c1ce7.jpg",
+    "qwen_caption_en": "A collage of four images showing a person wearing a face mask, a bicycle, and a red cone in a grassy area, with the person in a black shirt and a black jacket.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:59:18",
+    "text": "Коллаж из четырёх картинок с изображением человека в маске лица, велосипеде и красном конусе в травяной зоне, с человеком в черной рубашке и черной куртке.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/132_JPG_jpg.rf.6c0813980236bb0f9100b948b3b464f5.jpg",
+    "qwen_caption_en": "A man wearing a white hard hat, safety glasses, and a patterned face mask stands in front of a wall of grey louvered shutters.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:59:32",
+    "text": "Мужчина в белой жёсткой шляпе, очках и маске с рисунком лица стоит перед стеной серого болвана.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/135_JPG_jpg.rf.c0936d8a56a14a25559eb2dbd94cd290.jpg",
+    "qwen_caption_en": "A man wearing a white hard hat, safety goggles, a face mask, and work gloves stands in a factory or workshop, with a crane and industrial equipment visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T14:59:47",
+    "text": "Человек в белой жесткой шляпе, очках безопасности, маске и рабочих перчатках стоит на заводе или мастерской, а на заднем плане видны кран и промышленное оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/135e-huxwryw6451820_jpg.rf.3ad5f3daeb7dfcea822eb204ba90d9c0.jpg",
+    "qwen_caption_en": "A collage of four images shows a person with glasses and a face mask, a close-up of a rocky cliff, a person on a road with traffic cones, and the rear of a race car on a track.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:00:04",
+    "text": "Коллаж из четырёх картин показывает человека в очках и маске лица, замыкание скалы, человека на дороге с дорожными конусами и заднюю часть гоночной машины на трассе.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/14_JPG_jpg.rf.5e6e28df79098fbdce27a3bb7d9d8557.jpg",
+    "qwen_caption_en": "A woman in a blue lab coat, face mask, and gloves stands in a large, clean industrial factory floor, with a large machine visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:00:18",
+    "text": "Женщина в синем халате, маске и перчатках стоит на большом, чистом индустриальном полу, с большой машиной, видимой на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/154_JPG_jpg.rf.c5bc98c7aed954cf539320ace503e509.jpg",
+    "qwen_caption_en": "A man wearing a white hard hat, safety glasses, a face mask, and green work gloves stands in a construction or industrial setting, with his arms outstretched.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:00:32",
+    "text": "Человек в белой жесткой шляпе, очках, маске для лица и зеленых перчатках стоит в строительной или промышленной среде с растянутыми руками.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/185_JPG_jpg.rf.a6e46fb0c6a759bf17439c9d36cdc629.jpg",
+    "qwen_caption_en": "A woman in a blue work uniform, green gloves, a white hard hat, and a black face mask stands in a workshop, gesturing with her arms outstretched.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:00:51",
+    "text": "Женщина в синей рабочей форме, зеленые перчатки, белая жесткая шляпа и маска черного лица стоят в мастерской, вытягивая руки.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/213_JPG_jpg.rf.a672307c3388e605e2a56223532b1849.jpg",
+    "qwen_caption_en": "A man wearing a white hard hat, safety glasses, and a grey face mask stands in an industrial setting, with a white wall and a sign displaying the number '5' behind him.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:01:07",
+    "text": "Человек в белой жесткой шляпе, очках и серой маске стоит в промышленной среде, с белой стеной и знаком, показывающим номер '5' позади него.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/218_JPG_jpg.rf.2e42ed229df764840619bc3f97d96a7a.jpg",
+    "qwen_caption_en": "A man in a blue work uniform, white hard hat, and face mask is standing in an industrial setting, waving with his right hand.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:01:21",
+    "text": "Человек в синей рабочей форме, белой жесткой шляпе и маске лица стоит в промышленной среде, махая правой рукой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/220_JPG_jpg.rf.bca209ece13e8cbd56d0333175a04319.jpg",
+    "qwen_caption_en": "A person in a blue work uniform, white hard hat, and yellow gloves stands in a workshop, gesturing with both hands raised.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:01:34",
+    "text": "Человек в синей рабочей форме, белой жесткой шляпе и желтых перчатках стоит в мастерской, жаждая обеих рук.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/239_JPG_jpg.rf.d45879be3952cd8ffabc02144ea635f4.jpg",
+    "qwen_caption_en": "A person wearing a blue lab coat, green gloves, and safety goggles stands in a workshop, holding up their hands in a gesture, with a large industrial machine and various tools and materials visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:01:50",
+    "text": "Человек в синем халате, зеленых перчатках и очках безопасности стоит в мастерской, держит руки в жесте, с большой промышленной машиной и различными инструментами и материалами, видимыми на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/242_JPG_jpg.rf.40e18fc7f5f6666f56d8f65e94cf5423.jpg",
+    "qwen_caption_en": "A woman wearing a black face mask, green gloves, and safety goggles stands in a factory workshop, with various machines and another worker visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:02:04",
+    "text": "Женщина в маске черного лица, зеленых перчатках и очках безопасности стоит на заводской мастерской, где на заднем плане видны различные машины и другой работник.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/245_JPG_jpg.rf.27b651b0207dba450f422a68299fbc55.jpg",
+    "qwen_caption_en": "A woman wearing a black face mask, safety goggles, and green gloves stands in a workshop, with her arms outstretched, surrounded by various industrial equipment and tools.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:02:19",
+    "text": "Женщина в маске черного лица, очках безопасности и зеленых перчатках стоит в мастерской с растянутыми руками, окруженными различными промышленным оборудованием и инструментами.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/256_JPG_jpg.rf.78f24ab733fb1fdb4df884c58a0f5927.jpg",
+    "qwen_caption_en": "A man in a blue work uniform and face mask stands in a cluttered workshop, surrounded by machinery, tools, and a large white and blue racing car wing.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:02:35",
+    "text": "Человек в синей рабочей форме и маске стоит в запутанной мастерской, окруженной машинами, инструментами и большим белым и синим гоночным крылом.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/261_JPG_jpg.rf.e14734ded401ef26e82eaf1d56af5b8d.jpg",
+    "qwen_caption_en": "A person wearing a white hard hat, a blue protective coverall, and a face mask stands in a factory or workshop, with industrial equipment and machinery visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:02:50",
+    "text": "Человек в белой жесткой шляпе, синей защитной обложке и маске лица стоит на заводе или в мастерской, где на заднем плане видно промышленное оборудование и оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/270_JPG_jpg.rf.c6d5833593a3ca8d78f4290e308f3904.jpg",
+    "qwen_caption_en": "A person wearing a white hard hat, face mask, and yellow gloves stands in a cluttered workshop, raising both hands in a gesture, with a large white and blue racing car body and various industrial equipment in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:03:06",
+    "text": "Человек в белой жесткой шляпе, маске и желтых перчатках стоит в запутанной мастерской, поднимая обе руки в жест, с большим белым и синим гоночным кузовом и различным промышленным оборудованием на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/277_jpg.rf.b495813976278e67a52b69390b461f51.jpg",
+    "qwen_caption_en": "A collage of four images: the top-left shows a traffic cone on a paved surface, the top-right is a dark gray area, the bottom-left features a yellow object, and the bottom-right shows a person wearing glasses and a face mask.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:03:22",
+    "text": "Коллаж из четырёх снимков: сверху слева показан дорожный конус на поверхности с твердым покрытием, сверху справа — темно-серая зона, нижний слева — желтый объект, а нижний справа — человек в очках и маске лица.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/307_JPG_jpg.rf.7b9ae3d5263755637a4de5b994f6f282.jpg",
+    "qwen_caption_en": "A woman in a factory setting, wearing a white hard hat, safety goggles, a face mask, and a blue lab coat, is adjusting her protective gear.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:03:36",
+    "text": "Женщина на заводе в белой жесткой шляпе, очках безопасности, маске для лица и синем халате из лаборатории, регулирует защитное снаряжение.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/31_JPG_jpg.rf.98097e8204f8140ef56c809607debf68.jpg",
+    "qwen_caption_en": "A man wearing a face mask, yellow gloves, and a blue work jacket stands in a large, industrial factory hall with a high ceiling and concrete floor, gesturing with his hands.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:03:54",
+    "text": "Человек в маске на лице, желтых перчатках и синей рабочей куртке стоит в большом промышленном заводском зале с высоким потолком и бетонным полом, жаждая руками.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/329_jpg.rf.bc0f35c7b67e87b3c2b0a278b67ed766.jpg",
+    "qwen_caption_en": "A collage of four images shows a man in a lab, a yellow dump truck at a construction site, a person in a black shirt with a bicycle in the background, and a person wearing a white face mask in a dimly lit room.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:04:11",
+    "text": "Коллаж из четырёх картин показывает мужчину в лаборатории, желтый свалочный грузовик на стройплощадке, человека в черной рубашке с велосипедом на заднем плане, и человека в маске белого лица в туманно освещенной комнате.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/42_JPG_jpg.rf.be430d3472a61f996c6e8b63601cecae.jpg",
+    "qwen_caption_en": "A person in a blue work shirt, white hard hat, and face mask stands in a workshop, with a partially assembled aircraft in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:04:25",
+    "text": "Человек в синей рабочей рубашке, белой жесткой шляпе и маске лица стоит в мастерской с частично собранным самолетом на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/45_JPG_jpg.rf.9a9598ab1af0e0dd7fadcfe14b771699.jpg",
+    "qwen_caption_en": "A man wearing a face mask, safety goggles, yellow gloves, and a blue polo shirt stands in a large, industrial-looking room with a concrete floor and large shuttered doors.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:04:39",
+    "text": "Человек в маске лица, очках безопасности, желтых перчатках и синей рубашке поло стоит в большой, индустриальной комнате с бетонным полом и большими затворными дверями.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/494_jpg.rf.0c9607fb525264eb79197702627cd9e9.jpg",
+    "qwen_caption_en": "A collage of four images showing a woman in a car, a person building a wooden frame, a yellow excavator digging in a dirt lot, and a view of a residential neighborhood under construction.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:04:55",
+    "text": "Коллаж из четырёх снимков, показывающий женщину в машине, человека, строящего деревянную раму, желтого экскаватора, копающего на грязи, и вид на строящийся жилой район.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/504_JPG_jpg.rf.01f066ce94cd27b737ef22e4c5a0d2bc.jpg",
+    "qwen_caption_en": "A woman wearing a face mask and safety glasses stands in a factory or workshop, with large machinery and a wooden crate visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:05:09",
+    "text": "Женщина в маске для лица и очках безопасности стоит на фабрике или мастерской с большим оборудованием и деревянным ящиком, видимым на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/50_JPG_jpg.rf.3e563835ac2f197c42c71f81eef918bd.jpg",
+    "qwen_caption_en": "A man wearing a face mask, safety goggles, and gloves stands in a large, industrial-looking workshop with a green and yellow safety line on the floor, surrounded by machinery and equipment.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:05:24",
+    "text": "Человек в маске для лица, очках и перчатках стоит в большой индустриальной мастерской с зеленой и желтой линией безопасности на полу, окруженной машиной и оборудованием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/50_JPG_jpg.rf.85f238c6555ed3fff0de22b90596302a.jpg",
+    "qwen_caption_en": "A person in a blue work uniform, white hard hat, and face mask stands in a cluttered workshop filled with motorcycles and mechanical parts, gesturing with their hands.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:05:43",
+    "text": "Человек в синей рабочей форме, белой жесткой шляпе и маске лица стоит в запутанной мастерской, заполненной мотоциклами и механическими частями, с жевательной рукой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/51_JPG_jpg.rf.c6ee5ceb4e4d5321f7341709a03d3465.jpg",
+    "qwen_caption_en": "A person wearing a white hard hat, face mask, and yellow gloves stands in a large industrial factory, gesturing with their hands as if explaining something.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:05:58",
+    "text": "Человек в белой жёсткой шляпе, маске и желтых перчатках стоит на большой промышленной фабрике, высмеивая руки, как будто что-то объясняя.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/530_JPG_jpg.rf.370418e041665b19aea63936abb3cc08.jpg",
+    "qwen_caption_en": "A woman wearing a white hard hat, face mask, and blue lab coat stands in a factory setting, next to a large industrial machine.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:06:12",
+    "text": "Женщина в белой жёсткой шляпе, маске и синем халате стоит на заводской площадке рядом с большой промышленной машиной.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/545_JPG_jpg.rf.ead3a5deea2cba3bdec51ad92c6e1eec.jpg",
+    "qwen_caption_en": "A person in a blue work uniform, white hard hat, and face mask stands in a factory, gesturing with both hands raised, in front of a large machine and a red platform.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:06:28",
+    "text": "Человек в синей рабочей форме, белой жесткой шляпе и маске лица стоит на фабрике, высмеивая обе руки, перед большой машиной и красной платформой.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/588_jpg.rf.7bed50e28c6e2bf27202fa6d9a7deb03.jpg",
+    "qwen_caption_en": "A collage of four images: a blue sports car with a silver wheel, a cluttered garage, a person wearing a face mask, and a view of a house with a green lawn.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:06:43",
+    "text": "Коллаж из четырёх картин: синий спортивный автомобиль с серебряным колесом, запутанный гараж, человек в маске лица и вид на дом с зеленым газоном.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/588_jpg.rf.f27806dc83aeceb1c4d8e81375b6008e.jpg",
+    "qwen_caption_en": "A collage of four images shows a person with a face mask and curly hair in a close-up, a construction site with an excavator digging, a large telescope in a room, and a framed picture on the wall.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:06:58",
+    "text": "Коллаж из четырёх картин показывает человека с маской на лице и кудрявыми волосами в крупном заведении, строительную площадку с экскаватором, большой телескоп в комнате и рамную фотографию на стене.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/60_jpg.rf.b66197c105f438dac195ce553ff5a6ee.jpg",
+    "qwen_caption_en": "A collage of four images shows a construction site with an excavator digging into a dirt slope, a worker on a scaffolding platform, a person in a home office wearing a face mask, and a cluttered shelf with boxes and items.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:07:14",
+    "text": "Коллаж из четырёх снимков показывает строительную площадку с экскаватором, который копает на грязь на склоне, работником на платформе для строительных работ, человеком в домашнем офисе в маске для лица и запутанной полкой с коробками и предметами.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/627_jpg.rf.c15d59afb45b32573f9949795bceb921.jpg",
+    "qwen_caption_en": "A collage of four images showing a woman wearing a face mask, a traffic cone, a rusty piece of construction equipment, and a person in a medical setting.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:07:28",
+    "text": "Коллаж из четырёх снимков, показывающий женщину в маске для лица, дорожном конусе, ржавом строительном оборудовании и человека в медицинском учреждении.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/62_JPG_jpg.rf.502789079cb5e33316c1bfbd365efef8.jpg",
+    "qwen_caption_en": "A man wearing a white hard hat, safety goggles, and a black face mask stands in a large, modern industrial factory, showing his hands with yellow gloves.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:07:43",
+    "text": "Человек в белой жесткой шляпе, очках безопасности и маске черного лица стоит на большом, современном промышленном заводе, показывая руки желтыми перчатками.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/631_JPG_jpg.rf.2de1753b0671ae3d5bf5cda53fb248b6.jpg",
+    "qwen_caption_en": "A person wearing a white hard hat, a black face mask, and safety glasses is working in a factory or industrial setting, focused on a piece of machinery.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:07:56",
+    "text": "Человек в белой жесткой шляпе, маске с чёрным лицом и очках безопасности работает на заводе или в промышленности, концентрируясь на машине.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/635_JPG_jpg.rf.fc67bdea611efe83001e96c3636fc282.jpg",
+    "qwen_caption_en": "A worker in a blue protective suit, white hard hat, and green gloves is operating a machine in a factory workshop, with various tools and equipment visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:08:10",
+    "text": "Работник в синем защитном костюме, белой жесткой шляпе и зеленых перчатках управляет машиной на заводской мастерской с различными инструментами и оборудованием, видимыми на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/656_JPG_jpg.rf.526f48d786fa19e1b985a089f5c35c23.jpg",
+    "qwen_caption_en": "A man in a blue work uniform and safety goggles is operating a metalworking machine in a factory workshop.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:08:21",
+    "text": "Человек в синей форме и очках безопасности работает на металлообработочной машине в мастерской.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/658_JPG_jpg.rf.9938b52b50b6d6c7bd95ea2cc3874689.jpg",
+    "qwen_caption_en": "A young man wearing a black face mask, clear safety goggles, and a blue lab coat is looking to the side in a workshop filled with machinery and equipment.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:08:35",
+    "text": "Молодой человек в маске черного лица, в прозрачных очках безопасности и синем халате смотрит на бок в мастерской, заполненной машинами и оборудованием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/681_jpg.rf.f9be2ff4ed787411f1b588dbab09753f.jpg",
+    "qwen_caption_en": "A construction worker in an orange safety vest is working inside a doorway of a temporary white wall, surrounded by orange traffic cones and a yellow-and-black caution tape.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:08:49",
+    "text": "Строитель в оранжевом жилете безопасности работает в дверном проеме временной белой стены, окруженной оранжевыми дорожными конусами и желтой и черной лентой предупреждения.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/731_JPG_jpg.rf.23a5ad346b471336b1382fc927656efb.jpg",
+    "qwen_caption_en": "A woman wearing a blue lab coat, face mask, and safety glasses stands in a factory or workshop, with industrial machinery and equipment visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:09:03",
+    "text": "Женщина в синем халате, маске на лице и очках безопасности стоит на заводе или в мастерской, где на заднем плане видны промышленные машины и оборудование.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/742_JPG_jpg.rf.f37e602b238e7a9b7ddb6a5de1a1d457.jpg",
+    "qwen_caption_en": "A person wearing a white hard hat, a face mask, and safety glasses stands in a workshop, with a green machine and a wooden cabinet visible in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:09:17",
+    "text": "Человек в белой жесткой шляпе, маске на лице и очках безопасности стоит в мастерской с зелёной машиной и деревянным шкафом, видимым на заднем фоне.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/74_JPG_jpg.rf.3432a1e6576ee96cba1f497f20f62d8b.jpg",
+    "qwen_caption_en": "A man wearing a white helmet and a blue and red work shirt stands in a cluttered metal workshop, surrounded by long metal rods, tools, and other industrial equipment.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:09:30",
+    "text": "Человек в белом шлеме и синей и красной рубашке стоит в запутанной металлической мастерской, окруженной длинными металлическими прутами, инструментами и другим промышленным оборудованием.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/781_JPG_jpg.rf.578a21c9e230dcbd5bfa082421a60f0d.jpg",
+    "qwen_caption_en": "A worker in a blue uniform and white hard hat is operating a large industrial lathe in a cluttered factory workshop.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:09:43",
+    "text": "Трудящийся в синей форме и белой жесткой шляпе ведет большую промышленную латку в запутанной мастерской.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/861_JPG_jpg.rf.de60cf471604baa29f0835fd660bb300.jpg",
+    "qwen_caption_en": "A man in a blue work uniform, white hard hat, and face mask stands in a factory, gesturing with both hands raised, surrounded by industrial equipment and overhead fluorescent lights.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:09:58",
+    "text": "Человек в синей рабочей форме, белой жесткой шляпе и маске лица стоит на заводе, жаждая обеих рук, окруженных промышленным оборудованием и флуоресцентными огнями.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/862_JPG_jpg.rf.dd840e940b032a7bd1f3fff4cbbb4f0f.jpg",
+    "qwen_caption_en": "A worker in a blue uniform, yellow gloves, a white hard hat, and a face mask is operating a metalworking machine in a factory workshop.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:10:12",
+    "text": "Работник в синей форме, желтых перчатках, белой жесткой шляпе и маске на лице управляет металлической машиной в мастерской.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  },
+  {
+    "image": "data/93_JPG_jpg.rf.060b6d030afd2647ce2c330c52a13c06.jpg",
+    "qwen_caption_en": "A worker in a blue uniform, white helmet, and green gloves stands in a workshop surrounded by metal rods and other materials, with another person working in the background.",
+    "caption_model": "Qwen/Qwen3-VL-2B-Instruct",
+    "caption_model_path": "models/qwen3_vl_2b_instruct",
+    "created_at": "2026-06-02T15:10:26",
+    "text": "Работник в синей форме, белом шлеме и зеленых перчатках стоит в мастерской, окруженной металлическими стержнями и другими материалами, а другой человек работает на заднем плане.",
+    "translation_model": "Helsinki-NLP/opus-mt-en-ru"
+  }
+]
